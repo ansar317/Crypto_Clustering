@@ -22,12 +22,6 @@ Welcome to Crypto Clustering, a data science project that explores clustering te
 
 Cryptocurrencies have become a significant aspect of the financial landscape. This project leverages data science techniques to cluster cryptocurrencies, providing a deeper understanding of their characteristics and potential market behavior.
 
-## Features
-
-- **Clustering Algorithms:** Explore various clustering algorithms to group cryptocurrencies.
-- **Data Visualization:** Utilize visualizations to interpret the clustering results.
-- **Insights:** Extract insights about cryptocurrency similarities and market trends.
-
 ## Prerequisites
 
 Make sure you have the following prerequisites installed:
